@@ -1,0 +1,77 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    /* background-color: lavender; */
+    background-image: url(https://cdn.wallpapersafari.com/0/51/pY57qk.jpg);
+    color: white;
+}
+
+h1, h2{
+    font-size: 12rem;
+    text-align: center;
+}
+h3{
+    text-align: center;
+    font-size: 2.25rem;
+    margin-top: -3%;
+}
+
+form{
+    margin-left: 15%;
+    margin-top:3%;
+}
+label, input{
+    font-size: 4.5rem;
+}
+label{
+    margin-right:1%;
+}
+button{
+    font-size: 4.5rem;
+    margin-left:43%;
+    margin-top:3%;
+}
+
+@media (max-width:1600px){
+    form{
+        margin-left: 10%;
+        margin-top:3%;
+    }
+}
+@media (max-width:1511px){
+    form{
+        margin-left: 3%;
+        margin-top:3%;
+    }
+}
+@media (max-width:1408px){
+    form{
+        margin-left: 0%;
+        margin-top:3%;
+    }
+}
+@media (max-width:1365px){
+  input{
+    display: block;
+  }
+  form{
+    margin-left: 35%;
+  }
+}
+@media (max-width:1024px){
+  
+    form{
+        margin-left: 27%;
+        margin-top:3%;
+    }
+    
+}
+@media (max-width:717px){
+  
+    form{
+        margin-left: 17%;
+        margin-top:3%;
+    }
+    
+}
