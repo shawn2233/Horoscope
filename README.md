@@ -1,6 +1,6 @@
 # Horoscope app
 
-![Uploading Screenshot 2023-03-27 at 3.37.09 PM.png…]()
+![Uploading horoscope.png…]()
 
 
 How It's Made:
