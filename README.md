@@ -1,7 +1,6 @@
 # Horoscope app
 
-![Uploading horoscope.png…]()
-
+![Uploading latestwork5.png…]()
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript
